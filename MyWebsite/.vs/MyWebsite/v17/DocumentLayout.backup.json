@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|c:\\users\\lani\\source\\repos\\mywebsite\\views\\website\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|solutionrelative:views\\website\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|c:\\users\\lani\\source\\repos\\mywebsite\\views\\website\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|solutionrelative:views\\website\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|c:\\users\\lani\\source\\repos\\mywebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|c:\\users\\lani\\source\\repos\\mywebsite\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|c:\\users\\lani\\source\\repos\\mywebsite\\views\\website\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|solutionrelative:views\\website\\projects.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|c:\\users\\lani\\source\\repos\\mywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|c:\\users\\lani\\source\\repos\\mywebsite\\controllers\\mywebsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09DBB489-CE5E-426B-AC1A-BF21E455A30A}|MyWebsite.csproj|solutionrelative:controllers\\mywebsitecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T09:19:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:18:09.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projects.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Website\\Projects.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\Projects.cshtml",
+              "ToolTip": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Website\\Projects.cshtml",
+              "RelativeToolTip": "Views\\Website\\Projects.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T09:17:36.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Website\\About.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\About.cshtml",
+              "ToolTip": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Website\\About.cshtml",
+              "RelativeToolTip": "Views\\Website\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T09:17:09.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Website\\Home.cshtml",
+              "RelativeDocumentMoniker": "Views\\Website\\Home.cshtml",
+              "ToolTip": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\Website\\Home.cshtml",
+              "RelativeToolTip": "Views\\Website\\Home.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T09:16:40.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-07T09:20:47.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyWebsiteController.cs",
+              "DocumentMoniker": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Controllers\\MyWebsiteController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MyWebsiteController.cs",
+              "ToolTip": "C:\\Users\\Lani\\source\\repos\\MyWebsite\\Controllers\\MyWebsiteController.cs",
+              "RelativeToolTip": "Controllers\\MyWebsiteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T09:13:37.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
